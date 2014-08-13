@@ -1,7 +1,11 @@
 #Comentario 
 .DS_Store
 *.gz
+<<<<<<< HEAD
 #imgs/
+=======
+imgs/
+>>>>>>> 703adc44b57a5564d3e7134452376d62ef0e35ab
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
