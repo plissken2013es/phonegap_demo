@@ -1,0 +1,11 @@
+#Comentario 
+.DS_Store
+*.gz
+imgs/
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
+#Pregunta: ¿se ignorará log/archive/access.log? No.
