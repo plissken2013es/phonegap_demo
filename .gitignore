@@ -1,7 +1,10 @@
 #Comentario 
 .DS_Store
 *.gz
+<<<<<<< HEAD
 *.zip
+=======
+>>>>>>> d7ee3d3a815704a366281dd3c040919637ddb68d
 <<<<<<< HEAD
 #imgs/
 =======
